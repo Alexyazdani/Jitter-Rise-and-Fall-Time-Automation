@@ -11,7 +11,6 @@ The full list of VISA commands can be found at the end of the file.
 import time
 import pyvisa
 
-scope_ip = "-redacted-"
 scope_gpib = "GPIB0::7::INSTR"
 
 
