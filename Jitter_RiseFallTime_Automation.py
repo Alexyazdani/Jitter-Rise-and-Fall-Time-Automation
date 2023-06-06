@@ -12,6 +12,7 @@ import time
 import pyvisa
 
 scope_gpib = "GPIB0::7::INSTR"
+scope_ip = "TCPIP0::___.___.___.___::____::SOCKET
 
 
 """
